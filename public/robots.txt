@@ -1,0 +1,7 @@
+
+    # robots.txt for בדיקת Pipeline
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://בדיקת-pipeline.com/sitemap.xml
