@@ -1,8 +1,22 @@
 {
   "projectName": "בדיקת-pipeline-1965",
   "businessName": "בדיקת Pipeline",
-  "created": "2025-05-27T16:06:05.748Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אתר לבדיקת ה-pipeline",
+  "created": "2025-05-27T16:06:32.173Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-bdykt-pipeline-1748360815729",
+  "formData": {
+    "businessName": "בדיקת Pipeline",
+    "businessType": "technology",
+    "industry": "software",
+    "description": "אתר לבדיקת ה-pipeline",
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e40af",
+    "features": [
+      "modern-design"
+    ],
+    "designStyles": [
+      "minimal"
+    ]
+  }
 }
