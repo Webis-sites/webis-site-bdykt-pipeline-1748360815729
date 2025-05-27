@@ -1,8 +1,66 @@
 {
-  "projectName": "בדיקת-pipeline-1965",
-  "businessName": "בדיקת Pipeline",
-  "created": "2025-05-27T16:06:05.748Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-27T16:07:27.569Z",
+  "status": {
+    "totalComponents": 9,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive navigation bar with smooth scroll to sections and mobile menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Dynamic hero section showcasing pipeline testing innovation with animated elements"
+    },
+    {
+      "name": "FeaturesGrid",
+      "type": "features",
+      "status": "pending",
+      "description": "Grid showcasing key pipeline testing capabilities with interactive cards"
+    },
+    {
+      "name": "ProcessFlow",
+      "type": "process",
+      "status": "pending",
+      "description": "Interactive pipeline testing process visualization with step-by-step flow"
+    },
+    {
+      "name": "IntegrationShowcase",
+      "type": "integration",
+      "status": "pending",
+      "description": "Display of supported platforms and technologies with animated logos"
+    },
+    {
+      "name": "PerformanceMetrics",
+      "type": "performance",
+      "status": "pending",
+      "description": "Real-time performance dashboard mockup with animated charts"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Conversion-focused call-to-action with email capture and demo booking"
+    },
+    {
+      "name": "TechStackSection",
+      "type": "techstack",
+      "status": "pending",
+      "description": "Technical architecture overview with interactive diagram"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Minimal footer with essential links and company information"
+    }
+  ],
+  "repoName": "webis-site-bdykt-pipeline-1748360815729"
 }
